@@ -10,4 +10,7 @@ Así puedo poner código
 phpinfo();
 php_info();
 
+$saludo = "Hola mundo";
+echo $saludo;
+
 ```
